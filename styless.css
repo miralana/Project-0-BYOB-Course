@@ -1,0 +1,16 @@
+.box1 {
+    width: 680px;
+    height:500px;
+    background-color: lightgreen;
+}
+
+.box3 {
+    width: 450px;
+    height:300px;
+    background-color: yellow;
+    
+}
+
+.invisible {
+    color:darkolivegreen;
+}
